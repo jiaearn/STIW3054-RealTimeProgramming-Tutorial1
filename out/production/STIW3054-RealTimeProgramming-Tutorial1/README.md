@@ -1,8 +1,6 @@
 ## Your Info:
 1. Matric Number: 269509
-2. Name: Tan Jia Earn
-
-![photo1](https://github.com/STIW3054-A211/tutorial-1-jiaearn/blob/master/images/earn.JPG)
+1. Name: Tan Jia Earn
 
 ## Instruction:
 
